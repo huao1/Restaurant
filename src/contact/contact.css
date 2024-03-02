@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #C49A6D;
+}
+
+
+
+a {
+    color: white;
+    font-size: 24px;    
+    text-decoration: none;
+}
+
+.contact {
+    border: #9db9d8 solid 3px;
+    border-radius: 16px;
+    box-shadow: #3b6592 4px 6px;
+    margin: 10% 25%;
+    background-color: #6D97C4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.contact-text {
+    color: white;
+}
